@@ -71,9 +71,6 @@ data = pd.read_csv(r"FILE_PATH.csv")
 data = data.drop(['url'],axis=1)
 
 
-# In[15]:
-
-
 Q1 = data.quantile(q=0.25) 
 Q3 = data.quantile(q=0.75)
 IQR = Q3-Q1
