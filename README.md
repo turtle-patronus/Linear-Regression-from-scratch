@@ -1,4 +1,4 @@
-# To predict the popularity of a given Mashable article
+# To predict the popularity of a given news article
 ## Done by implementing linear regression from scratch
 
 The dataset can be found here: http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity 
