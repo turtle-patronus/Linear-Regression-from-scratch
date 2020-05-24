@@ -1,6 +1,9 @@
-# Linear Regression from scratch
+# To predict the popularity of a given Mashable article
+## Done by implementing linear regression from scratch
 
-Implementation of multiple linear regression from scratch. The code is written from scratch and does *NOT* use existing functions or packages which can provide the Multiple Linear Regression regressor or fit/predict function (e.g. sklearn).
+The dataset can be found here: http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity 
+
+This is an mplementation of multiple linear regression from scratch. The code is written from scratch and does *NOT* use existing functions or packages which can provide the Multiple Linear Regression regressor or fit/predict function (e.g. sklearn).
 
 A good exercise to delve into the mathematics behind any library's code implementation. 
 
