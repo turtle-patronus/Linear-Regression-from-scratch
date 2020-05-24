@@ -65,7 +65,7 @@ def inverse_transform_Y(self,y):
 
 
 
-data = pd.read_csv(r"E:\Infovio internship\OnlineNewsPopularity.csv")
+data = pd.read_csv(r"FILE_PATH.csv")
 
 
 data = data.drop(['url'],axis=1)
